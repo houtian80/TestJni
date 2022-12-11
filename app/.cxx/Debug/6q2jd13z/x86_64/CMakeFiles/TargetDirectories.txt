@@ -1,0 +1,3 @@
+/Users/louris/Downloads/TestJni/app/.cxx/Debug/6q2jd13z/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/louris/Downloads/TestJni/app/.cxx/Debug/6q2jd13z/x86_64/CMakeFiles/edit_cache.dir
+/Users/louris/Downloads/TestJni/app/.cxx/Debug/6q2jd13z/x86_64/CMakeFiles/JNILoader.dir
